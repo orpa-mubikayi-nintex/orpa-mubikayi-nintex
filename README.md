@@ -1,5 +1,3 @@
-##
-
 ## Hi there 👋
 
 ![90309efe56e7ce8504259be5e38be4d7](https://github.com/user-attachments/assets/9b87ab38-3692-4b3a-a8e0-f188bc1dca63)
